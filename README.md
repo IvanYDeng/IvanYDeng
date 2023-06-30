@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I am graduate at the University of Illinois at Chicago earning a degree in Computer Science. I am a avid Python learning.
+I am a graduate of the University of Illinois at Chicago earning a degree in Computer Science. I am a avid Python learning.
